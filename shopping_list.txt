@@ -2,3 +2,7 @@ Apples
 Beer
 Ice cream
 Pizza
+Coke
+Beans
+Lettuce
+Rice
