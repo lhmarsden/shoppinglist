@@ -1,11 +1,2 @@
 Apples
 Beans
-Beer
-Coke
-Ice cream
-Lettuce
-Pizza
-Rice
-
-
-
